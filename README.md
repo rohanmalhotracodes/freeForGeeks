@@ -934,6 +934,7 @@ Datos.gov...
 
 - [First Contributions](https://firstcontributions.github.io) helps beginners make your first open source contribution in 5 minutes. ⭐ [42k stars](https://github.com/firstcontributions/first-contributions)
 - [FindIssues](https://findissues.vercel.app) aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
+- [HelpMeHack](https://www.helpmehack.tech/) surfaces active open-source repositories and checks current contribution-labelled issues for assignment, linked-PR, contribution-guide, and maintainer-activity signals. ⭐ [GitHub](https://github.com/rohanmalhotracodes/helpmehack)
 - [First Timers Only](https://www.firsttimersonly.com) is a list of issues that are labeled "first-timers-only". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/shanselman/firsttimersonly)
 - [My First PR](https://my-first-pr.github.io) helps beginners make their first open-source contribution. ⭐ [GitHub](https://github.com/my-first-pr)
 - [Up For Grabs](https://up-for-grabs.net) is a list of projects with issues that are labeled "up-for-grabs". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/up-for-grabs/up-for-grabs.net)
